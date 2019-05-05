@@ -1,0 +1,51 @@
+Fantasica Arena Team Roster
+
+Name............ Nina
+Cost............. 15
+Speed............ C
+Land Attack...... 66505
+Air Attack....... 79575
+Sea Attack....... 63800
+Average Attack... 69960.00
+Skill............ Knockback
+Value............ 0.50
+
+Name............ Isis
+Cost............. 15
+Speed............ D
+Land Attack...... 65084
+Air Attack....... 69685
+Sea Attack....... 76255
+Average Attack... 70341.33
+Skill............ Poison
+Value............ 0.50
+
+Name............ Charles
+Cost............. 10
+Speed............ S
+Land Attack...... 49430
+Air Attack....... 22730
+Sea Attack....... 44090
+Average Attack... 38750.00
+Skill............ None
+Value............ 0.20
+
+Name............ Monica
+Cost............. 30
+Speed............ D
+Land Attack...... 90010
+Air Attack....... 63870
+Sea Attack....... 103150
+Average Attack... 85676.66
+Skill............ Slow
+Value............ 0.45
+
+Name............ Clarissa
+Cost............. 30
+Speed............ D
+Land Attack...... 69545
+Air Attack....... 79470
+Sea Attack....... 86075
+Average Attack... 78363.33
+Skill............ Area_Attack
+Value............ 0.80
