@@ -1,7 +1,11 @@
-This is a simple Console Application
+This directory contains multiple project which demonstrates simple yet core concepts for C programming
  
-This project will demosntrate the use of structs
-struct book contains title, ISBN, number of pages, and cost
-instance of book gets created by user input or copied by already created instance
+HOW TO USE:
+ 1) Input book title
+ 2) Input book ISBN
+ 3) Input number of pages
+ 4)	Repeat from step 1, once.
 
-User will input title, ISBN, number of pages, and cost of 2 books 
+ABOUT THE PROGRAM:
+Struct book contains title, ISBN, and number of pages.
+Instance of book gets created by user input or copied by already created instance

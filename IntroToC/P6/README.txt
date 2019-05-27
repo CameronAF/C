@@ -1,11 +1,12 @@
 This is a simple Console Application
  
-This project will demosntrate the use of arrays
+HOW TO USE:
+ 1) Input the size of the array
+ 2) Input a number to put in the array
+ 3) repeat step 2 till array is filled
 
-This program fills an array of doubles with user input, 
-prints the doubles on the screen in a column,
-adds up all the doubles in the array 
-and prints the sum onto the screen.
+ABOUT THE PROGRAM:
+This program fills an array of doubles as follows:
  - User is asked how many doubles to enter <= 20.
  - A loop is used to read the doubles into the array from the user.
  - A loop is used to print the array onto the screen in a column.

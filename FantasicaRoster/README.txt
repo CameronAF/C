@@ -13,7 +13,7 @@ This program is NOT case sensitive
 	
 	WHEN ADDING AN ENTRY
 -NOT case sensitive
--space sensitive(use underscore[_])
+-space sensitive (use underscore[_])
 1) NAME: If the name contains a space, a underscore must be used instead of the space 
 	[ex: Goddess_Danu]
 2) COST: integers of 10, 15, 20, 25, or 30
@@ -23,7 +23,6 @@ This program is NOT case sensitive
 6) SKILL: either None, Poison, Slow, Knockback, Area_Attack, Attack_Boost(M), or Attack_Boost(F)
 7) VALUE: a decimal in the hundredths place[ex: 0.25] between 1 and 0(not including 0)
 
-	DELETE A ENTRY
+	DELETE AN ENTRY
 -Choose a name form the roster to be deleted
 -NOT case sensitive
-

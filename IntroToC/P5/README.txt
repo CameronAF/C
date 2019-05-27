@@ -1,5 +1,10 @@
 This is a simple Console Application
  
-This project will demosntrate the use return by value and return by reference
+HOW TO USE:
+ 1) Input a number
+ 2) input a second number
+	 - Sum and difference are calculated
 
-This is a small program that calculates the sum and the difference of two integers 
+ABOUT THE PROGRAM:
+This program calculates the sum and the difference of two integers and 
+demonstrate return by value and return by reference.

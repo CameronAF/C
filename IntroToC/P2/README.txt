@@ -1,8 +1,10 @@
 This is a simple Console Application
  
-This project will calcuate the area of a rectangle and the area of a circle
+HOW TO USE:
+ 1) User inputs the length of the rectangle
+ 2) User inputs the width of the rectangle
+ 3) User inputs the radius of the circle
 
-User will input 3 numbers
-1) the length of the rectangle
-2) the width of the rectangle
-3) the radius of the circle
+ABOUT THE PROGRAM:
+This project will calculate the area of a rectangle and the area of a circle
+The dimensions of these shapes are given by the user
